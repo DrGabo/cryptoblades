@@ -1,0 +1,37 @@
+{
+  "language": "Spanish",
+  "view-link": {
+      "plaza": "Plaza",
+      "blacksmith": "Herrería",
+      "combat": "Combate",
+      "raid": "Raid",
+      "pvp": "PvP",
+      "market": "Mercado",
+      "stake": "Stake"
+  },
+  "plaza": {
+    "welcome": "¡Comenzá a ganar hoy!"
+  },
+  "options": {
+      "title": "",
+      "graphic": "",
+      "rewardBar": "",
+      "walletWarning": "",
+      "staminaFight": "",
+      "language": ""
+  },
+  "app": {
+    "warning": {
+      "title": "Metamask No Detectado o en Red Incorrecta",
+      "buttons": {
+        "addMetamask": "Agregar MetaMask",
+        "confMetamask": "Configurar MetaMask",
+        "startMetamask": "Conectar con MetaMask",
+        "network": "Cambiar a la Red BSC",
+        "hide": "Ocultar Advertencia"
+      }
+    }
+  },
+  "on": "Prendido",
+  "off": "Apagado" 
+}
